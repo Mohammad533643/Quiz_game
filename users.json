@@ -1,0 +1,16 @@
+[
+    {
+        "Mohammad": {
+            "name": "Mohammad",
+            "password": "2005",
+            "sum score": 6
+        }
+    },
+    {
+        "ali": {
+            "name": "ali",
+            "password": "2005",
+            "sum score": 1
+        }
+    }
+]
