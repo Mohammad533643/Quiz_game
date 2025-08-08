@@ -1,0 +1,210 @@
+{
+  "Historical": [
+    {
+      "question": "Who discovered gravity?",
+      "choices": ["Newton", "Einstein", "Galileo", "Kepler"],
+      "answer": 0
+    },
+    {
+      "question": "When did World War two end?",
+      "choices": ["1945", "1939", "1918", "1963"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first US president?",
+      "choices": ["Lincoln", "Washington", "Jefferson", "Adams"],
+      "answer": 1
+    },
+    {
+      "question": "Where was Napoleon defeated?",
+      "choices": ["Waterloo", "Trafalgar", "Hastings", "Normandy"],
+      "answer": 0
+    },
+    {
+      "question": "What year was the Declaration of Independence?",
+      "choices": ["1776", "1492", "1804", "1812"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the printing press?",
+      "choices": ["Gutenberg", "Edison", "Tesla", "Bell"],
+      "answer": 0
+    },
+    {
+      "question": "What empire was Julius Caesar part of?",
+      "choices": ["Greek", "Roman", "Egyptian", "Persian"],
+      "answer": 1
+    },
+    {
+      "question": "Who was queen during the Victorian era?",
+      "choices": ["Elizabeth I", "Victoria", "Mary I", "Anne"],
+      "answer": 1
+    },
+    {
+      "question": "What was the Renaissance?",
+      "choices": ["War", "Rebirth", "Famine", "Trade"],
+      "answer": 1
+    },
+    {
+      "question": "Who led the Soviet Union in WWII?",
+      "choices": ["Lenin", "Stalin", "Trotsky", "Khrushchev"],
+      "answer": 1
+    }
+  ],
+  "Political": [
+    {
+      "question": "What is democracy?",
+      "choices": ["Rule by one", "Rule by many", "Military rule", "No government"],
+      "answer": 1
+    },
+    {
+      "question": "Who is head of state in a monarchy?",
+      "choices": ["President", "Prime Minister", "King/Queen", "Senator"],
+      "answer": 2
+    },
+    {
+      "question": "What is the UN?",
+      "choices": ["Military group", "International organization", "Country", "Company"],
+      "answer": 1
+    },
+    {
+      "question": "What does NATO stand for?",
+      "choices": ["Trade pact", "Military alliance", "Peace group", "Economic union"],
+      "answer": 1
+    },
+    {
+      "question": "What is a constitution?",
+      "choices": ["Law book", "History book", "Novel", "Biography"],
+      "answer": 0
+    },
+    {
+      "question": "What is socialism?",
+      "choices": ["Private ownership", "Government ownership", "No taxes", "Anarchy"],
+      "answer": 1
+    },
+    {
+      "question": "What is a republic?",
+      "choices": ["Monarchy", "Democracy", "Military rule", "Theocracy"],
+      "answer": 1
+    },
+    {
+      "question": "Who wrote 'The Prince'?",
+      "choices": ["Machiavelli", "Marx", "Locke", "Plato"],
+      "answer": 0
+    },
+    {
+      "question": "What is veto power?",
+      "choices": ["Reject law", "Pass law", "Write law", "Ignore law"],
+      "answer": 0
+    },
+    {
+      "question": "Which country is communist?",
+      "choices": ["USA", "China", "UK", "Canada"],
+      "answer": 1
+    }
+  ],
+  "Scientific": [
+    {
+      "question": "What is H2O?",
+      "choices": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "question": "What planet is known as Red Planet?",
+      "choices": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "answer": 0
+    },
+    {
+      "question": "What gas do plants absorb?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "question": "What organ pumps blood?",
+      "choices": ["Lungs", "Heart", "Liver", "Kidney"],
+      "answer": 1
+    },
+    {
+      "question": "What is the speed of light?",
+      "choices": ["300,000 km/s", "150,000 km/s", "100,000 km/s", "50,000 km/s"],
+      "answer": 0
+    },
+    {
+      "question": "Who developed relativity?",
+      "choices": ["Newton", "Einstein", "Tesla", "Curie"],
+      "answer": 1
+    },
+    {
+      "question": "What is an atom?",
+      "choices": ["Smallest particle", "Planet", "Cell", "Virus"],
+      "answer": 0
+    },
+    {
+      "question": "What force keeps us on Earth?",
+      "choices": ["Magnetism", "Gravity", "Friction", "Electricity"],
+      "answer": 1
+    },
+    {
+      "question": "What vitamin do we get from sunlight?",
+      "choices": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": 3
+    },
+    {
+      "question": "Which planet has rings?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": 3
+    }
+  ],
+  "Geography": [
+    {
+      "question": "Capital of Iran?",
+      "choices": ["Rasht", "Mashhad", "Tehran", "Zanjan"],
+      "answer": 2
+    },
+    {
+      "question": "Largest continent?",
+      "choices": ["Africa", "Asia", "Europe", "America"],
+      "answer": 1
+    },
+    {
+      "question": "Longest river?",
+      "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": 0
+    },
+    {
+      "question": "Highest mountain?",
+      "choices": ["K2", "Everest", "Denali", "Elbrus"],
+      "answer": 1
+    },
+    {
+      "question": "Largest ocean?",
+      "choices": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "answer": 1
+    },
+    {
+      "question": "Capital of France?",
+      "choices": ["London", "Paris", "Berlin", "Rome"],
+      "answer": 1
+    },
+    {
+      "question": "Which desert is biggest?",
+      "choices": ["Sahara", "Gobi", "Kalahari", "Antarctica"],
+      "answer": 3
+    },
+    {
+      "question": "Which country has most islands?",
+      "choices": ["Indonesia", "Sweden", "Philippines", "Canada"],
+      "answer": 1
+    },
+    {
+      "question": "Which country is smallest?",
+      "choices": ["Monaco", "Vatican", "San Marino", "Liechtenstein"],
+      "answer": 1
+    },
+    {
+      "question": "Which ocean east of USA?",
+      "choices": ["Pacific", "Atlantic", "Indian", "Arctic"],
+      "answer": 1
+    }
+  ]
+}
