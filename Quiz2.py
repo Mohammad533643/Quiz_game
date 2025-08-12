@@ -373,7 +373,7 @@ class Login:  # page two_2
 
     def search_in_file(self):
         data = []
-        with open(resource_path("users.json"), "r") as file1:
+        with open(resource_path(R"Quiz_game/users.json"), "r") as file1:
             data = list(json.load(file1))
 
         self.names = []
